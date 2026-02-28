@@ -4,7 +4,7 @@ Uso básico de django en un ambiente virtual con conexión a una DB y URLs asign
 
 ## Descripción
 
-El proyecto muestra el uso y configuración de una aplicación básica de django que se puede ver en el localhost y permite la creación, visualización y edición de archivos por medio de URLs asignados donde los archivos generados se almacenan en una base de datos mysql.
+El proyecto muestra el uso y configuración de una aplicación básica de django que se puede ver en el url http://0.0.0.0:8000/ y permite la creación, visualización y edición de archivos por medio de URLs asignados donde los archivos generados se almacenan en una base de datos mysql.
 Igualmente aqui se encuentra el step by step de como llegar al mismo resultado.
 
 
